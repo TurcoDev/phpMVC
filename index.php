@@ -39,7 +39,7 @@ if ((isset($_POST['nombre'])) && ($_POST['nombre'] != '') && (isset($_POST['prec
                 <div class="col-lg-6 text-center">
                     <hr/>
                     <h3>Listado de servicios</h3>
-                    <a href="controllers/controlador.php"><i class="fa fa-align-justify"></i> Acceder al listado de servicios</a>
+                    <a href="controllers/controller.php"><i class="fa fa-align-justify"></i> Acceder al listado de servicios</a>
                     <hr/>
                 </div> 
             </div>
